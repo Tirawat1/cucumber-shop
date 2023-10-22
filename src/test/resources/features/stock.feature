@@ -1,3 +1,4 @@
+# tirawat Pongpratisonthi 6410450958
 Feature: Check stock
   As a cashier
   I want to check stock
