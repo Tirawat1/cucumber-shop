@@ -25,4 +25,4 @@ Feature: Check stock
     When I buy "Bread" with quantity 2
     And I buy "Candy" with quantity 5
     Then total in stock "Bread" quantity 3
-    Then total in stock "Jam" quantity 5
+    Then total in stock "Candy" quantity 5
